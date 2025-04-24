@@ -1,0 +1,10 @@
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\bin\Debug\Serbest_Dusme_Deneme1.exe.config
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\bin\Debug\Serbest_Dusme_Deneme1.exe
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\bin\Debug\Serbest_Dusme_Deneme1.pdb
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.csproj.AssemblyReference.cache
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.Form1.resources
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.Properties.Resources.resources
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.csproj.GenerateResource.cache
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.csproj.CoreCompileInputs.cache
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.exe
+C:\Users\SuleymanSardogan\source\repos\Serbest_Dusme_Deneme1\Serbest_Dusme_Deneme1\obj\Debug\Serbest_Dusme_Deneme1.pdb
